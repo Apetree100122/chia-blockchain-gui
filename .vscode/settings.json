@@ -1,0 +1,4 @@
+{
+  "scss.lint.argumentsInColorFunction": "warning",
+  "scss.lint.hexColorLength": "warning"
+}
