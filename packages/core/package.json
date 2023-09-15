@@ -27,7 +27,7 @@
     "@emoji-mart/data": "1.1.2",
     "@fontsource/roboto": "4.5.1",
     "@lingui/macro": "4.2.1",
-    "@mui/utils": "5.13.1",
+    "@mui/utils": "5.14.6",
     "@rehooks/local-storage": "2.4.4",
     "bignumber.js": "9.0.2",
     "cookie": "0.4.1",
